@@ -1,6 +1,6 @@
 """
     Code to support the GSOC uARM Robotic Arm Event Display.
-    For more information, visit: https://www.github.com/bhontz/GSOCRoboticArm
+    For more information, visit: https://www.github.com/GSOCSTEMPatrol/GSOCRoboticArm
 
 """
 import os, sys, time, math
